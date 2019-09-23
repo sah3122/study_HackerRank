@@ -27,5 +27,15 @@ target/
 /.nb-gradle/
 build/
 
+/out/
+
+.gradle
+.gradle/
+
+/gradle
+/build/
+!gradle/wrapper/gradle-wrapper.jar
+
+
 ### VS Code ###
 .vscode/
